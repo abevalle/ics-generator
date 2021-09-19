@@ -1,0 +1,24 @@
+{
+  "name": "ics-generator",
+  "version": "1.0.0",
+  "description": "mock ics generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abevalle/ics-generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abevalle/ics-generator/issues"
+  },
+  "homepage": "https://github.com/abevalle/ics-generator#readme",
+  "dependencies": {
+    "ics": "^2.31.0",
+    "pg": "^8.7.1",
+    "randomstring": "^1.2.1"
+  }
+}
